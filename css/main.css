@@ -14,4 +14,21 @@ h1 {
 
 input, button {
     border: 3px solid #93C481;
+    color: #93C481;
+}
+
+ul {
+    list-style: none;
+    color: #FFB450;
+
+}
+
+span {
+    background-color: #E16566;
+    color: white;
+    padding: 3px;
+}
+
+li {
+    margin: 5px;
 }
