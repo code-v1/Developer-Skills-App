@@ -1,6 +1,10 @@
 # Developer Skills Project
 Web app to list all of my developer skills
 
+
+![](DeveloperSkills.png)
+
+
 ## Technologies Used:
 - HTML5
 - CSS3
